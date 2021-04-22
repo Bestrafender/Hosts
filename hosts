@@ -1,10 +1,10 @@
-google-analytics.com
-ads.google.com
-doubleclick.net
-googlesyndication.com
-googletagservices.com
-googleadservices.com
-adservice.google.com
-1e100.net
-tube8.com
+0.0.0.0 google-analytics.com
+0.0.0.0 ads.google.com
+0.0.0.0 doubleclick.net
+0.0.0.0 googlesyndication.com
+0.0.0.0 googletagservices.com
+0.0.0.0 googleadservices.com
+0.0.0.0 adservice.google.com
+0.0.0.0 1e100.net
+0.0.0.0 tube8.com
 
